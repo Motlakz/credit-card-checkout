@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [github](motlakz.github.io/credit-card-checkout)
+- Live Site URL: [github](https://motlakz.github.io/credit-card-checkout/)
 
 ### Built with
 
